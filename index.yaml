@@ -1,0 +1,10 @@
+apiVersion: v1
+entries:
+  loki-stack:
+  - apiVersion: v2
+    appVersion: v1.0.0
+    name: loki-stack
+    type: application
+    urls:
+    - loki-stack-2.10.2.tgz
+    version: 1.0.0
